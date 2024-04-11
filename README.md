@@ -27,3 +27,8 @@ list-subscribe
 
 list the subscribe stream 
 ![image](https://github.com/CN-CODEGOD/stream/assets/166476136/e489c96b-a12d-43f8-9e2e-3982d7d787c4)
+
+
+## About avoid firewall 
+ play-stream 获取的链接需要VPN 获取过后的直链播放不需要VPN 
+ 可以把获取的直链保存到播放器的链接列表里，以后就不用再次获取
