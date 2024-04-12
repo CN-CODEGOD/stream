@@ -25,8 +25,10 @@ play the stream of the title
 
 list-subscribe  
 
-list the subscribe stream 
-![image](https://github.com/CN-CODEGOD/stream/assets/166476136/e489c96b-a12d-43f8-9e2e-3982d7d787c4)
+check the available subscribe stream 
+ ![image](https://github.com/CN-CODEGOD/stream/assets/166476136/ea09ff53-8781-49bb-a241-be4cf458f0e1)
+
+
 
 
 ## About avoid firewall 
