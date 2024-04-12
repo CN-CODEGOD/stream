@@ -33,4 +33,39 @@ list the subscribe stream
  play-stream 获取的TWITCH链接需要VPN 获取过后的直链播放不需要VPN 
 
 
+## bilibili for BilibiliPotPlayer
+bilibili was using BilibiliPotPlayer instead of streamlink for better stream play 
+you need to install the BilibiliPotPlayer manually  before playing the bilibili stream 
+
+
+
+## install plugin 
+expand the zip bilibili
+
+move the path  Media\playparse MediaPlayParse -Bilibili.as.~\MediaPlayParse-Bilibili.ico and ~\Bilibili_Config.json
+to (potplayer)\extension\Media\playparse 
+
+move the path Media\MediaUrlList -Bilibili.as and MediaUrlList -Bilibili.ico to (potplayer)\Extension\Media\UrlList
+
+## login 
+
+open the Bilibili_Config.json
+
+config the cookie 
+![image](https://github.com/CN-CODEGOD/stream/assets/166476136/4dd6f5c0-8da6-4129-a015-0eff396e1f20)
+enter the path inside
+
+click test 
+![image](https://github.com/CN-CODEGOD/stream/assets/166476136/5c401b00-e562-4e75-8110-d1fbcec52357)
+
+## get cookies
+[gei cookies](https://github.com/chen310/BilibiliPotPlayer/issues/62#issuecomment-1841909583)
+
+
+## usage 
+enter the link into potplayer to play 
+![image](https://github.com/CN-CODEGOD/stream/assets/166476136/25e37c82-8127-4890-86df-19eefb6d3567)
+
+
+
 
